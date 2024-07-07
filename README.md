@@ -1,6 +1,12 @@
 # Exploring MyCoast New York Reports for NYC
 Author: Mark Bauer
 
+# Table of Contents
+   * [1. Introduction](#1-Introduction)
+   * [2. Notebook](#2-Notebook)
+   * [3. Data](#3-Data)
+   * [4. Say Hello](#4-Say-Hello)
+
 ![photo](figures/reports-nyc.png)
 
 ![photo](figures/choropleth-map.png) 
