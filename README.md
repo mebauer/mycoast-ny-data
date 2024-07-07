@@ -7,11 +7,11 @@ Author: Mark Bauer
 
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
-Figure xx: Highest Recorded Depth
+Figure xx: Highest Guessed Depth
 
-![photo](figures/second-highest-depth.png) 
-![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21195159/20210901_221005-scaled.jpg)
-Figure xx: Second Highest Recorded Depth
+![photo](figures/fourth-highest-depth.png) 
+![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)
+Figure xx: Fourth Highest Guessed Depth
 
 # 1. Introduction
 
