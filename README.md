@@ -10,7 +10,7 @@ Author: Mark Bauer
 Figure xx: Highest Guessed Depth
 
 ![photo](figures/fourth-highest-depth.png) 
-![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)
+![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)  
 Figure xx: Fourth Highest Guessed Depth
 
 # 1. Introduction
