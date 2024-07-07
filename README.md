@@ -1,6 +1,8 @@
 # Exploring MyCoast New York Data for NYC
 Author: Mark Bauer
 
+![cover photo](figures/reports-nyc.png)
+
 ![cover photo](figures/cover-photo.png) 
 
 # 1. Introduction
