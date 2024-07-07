@@ -1,9 +1,9 @@
-# Exploring MyCoast New York Data for NYC
+# Exploring MyCoast New York Reports for NYC
 Author: Mark Bauer
 
 ![photo](figures/reports-nyc.png)
 
-![photo](figures/cover-photo.png) 
+![photo](figures/choropleth-map.png) 
 
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
