@@ -7,9 +7,11 @@ Author: Mark Bauer
 
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
+Figure xx: Highest Recorded Depth
 
 ![photo](figures/second-highest-depth.png) 
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21195159/20210901_221005-scaled.jpg)
+Figure xx: Second Highest Recorded Depth
 
 # 1. Introduction
 
