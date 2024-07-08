@@ -11,6 +11,10 @@ Author: Mark Bauer
 
 ![photo](figures/choropleth-map.png) 
 
+![photo](figures/nta-bar.png) 
+
+![photo](figures/date-bar.png) 
+
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
 Figure xx: Highest Recorded Guessed Depth on 2021-09-01 
