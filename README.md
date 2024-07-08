@@ -13,11 +13,11 @@ Author: Mark Bauer
 
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
-Figure xx: Highest Guessed Depth
+Figure xx: Highest Recorded Guessed Depth on 2021-09-01 
 
 ![photo](figures/fourth-highest-depth.png) 
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)  
-Figure xx: Fourth Highest Guessed Depth
+Figure xx: Fourth Highest Recorded Guessed Depth on 2022-12-23 
 
 # 1. Introduction
 This project explores [MyCoast New York](https://mycoast.org/ny) reports, which helps document New York's changing water levels and weather impacts. Volunteers from across the state can upload photos and data through a suite of tools once they register. The data is publicly viewable and can be used by everyone for science, decision making, education, and storytelling. MyCoast automatically links the photo reports to environmental data from weather stations, tide gauges, river gauges, and lake levels to give the data context. MyCoast NY went live on July 1, 2022.
