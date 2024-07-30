@@ -35,6 +35,8 @@ Figure xx: Reported on 2021-09-01
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)  
 Figure xx: Reported on 2022-12-23 
 
+### Additional Photos
+
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21195159/20210901_221005-scaled.jpg)  
 Figure xx: Reported on 2021-09-01
 
