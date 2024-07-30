@@ -25,7 +25,7 @@ To learn more about MyCoast New York, please visit the website: https://mycoast.
 
 
 # 2. Photos 
-Photos captured through MyCoast New York:  
+Photos captured through MyCoast New York with location:  
 
 ![photo](figures/highest-depth.png)
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21194127/20210901_221628-scaled.jpg)
@@ -35,7 +35,7 @@ Figure xx: Reported on 2021-09-01
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/01/09205934/mckee-164th-7_30-am.png)  
 Figure xx: Reported on 2022-12-23 
 
-### Additional Photos
+# Additional Photos Recorded on MyCoast NY
 
 ![photo](https://report-images.nyc3.digitaloceanspaces.com/2023/06/21195159/20210901_221005-scaled.jpg)  
 Figure xx: Reported on 2021-09-01
