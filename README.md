@@ -1,4 +1,4 @@
-# Exploring MyCoast New York Reports for NYC
+# Exploring MyCoast New York Reports for NYC in Python
 Author: Mark Bauer
 
 # Table of Contents
@@ -15,6 +15,8 @@ Author: Mark Bauer
 ![photo](figures/nta-bar.png) 
 
 ![photo](figures/date-bar.png) 
+
+![photo](figures/photo-date.png) 
 
 # 1. Introduction
 This project explores [MyCoast New York](https://mycoast.org/ny) reports, which helps document New York's changing water levels and weather impacts. Volunteers from across the state can upload photos and data through a suite of tools once they register. The data is publicly viewable and can be used by everyone for science, decision making, education, and storytelling. MyCoast automatically links the photo reports to environmental data from weather stations, tide gauges, river gauges, and lake levels to give the data context. MyCoast NY went live on July 1, 2022.
